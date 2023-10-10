@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPA_murie_Calculator</string>
+    <string name="empty_grade_error">"Not all grades were filled in"</string>
+</resources>
